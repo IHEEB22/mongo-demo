@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 import org.springframework.data.annotation.Id;
 
 import java.io.Serializable;
-//hello from azure devops s
+//hello from azure devops ss
 @Data 
 @AllArgsConstructor
 @NoArgsConstructor
